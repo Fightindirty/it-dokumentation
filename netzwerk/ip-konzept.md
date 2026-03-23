@@ -1,0 +1,3 @@
+Oh Junge, Ich habe es geliebt diese "IT-DOKUMENTATION" zu schreiben so sehr sogar, das ich jetzt 5 zeilen erkläre was eine IPv4 Adresse ist.
+Ich sollte erwähnen das ich hierzu nichts googlen werden, und nur auf mein halbwissen zurückgreifen werde.
+Also eine es yipt die yute IPv4 Adressen und IPv6 Adressen, die IPv4 adressem sind scheiße, da diese langsam knapp werden oder schon nicht nutzbar sind im Großraum internet zumindest, da sich Geräte im Wohrld Wihde Wehb nur mit IPv4 Unterhalten können, ist es Kontraproduktiv eine Begrenzte anzahl an Adressen zu haben, da wenn zwei geräte die selbe ip haben alles nicht funkt, deshalb wurde IPv6 Intejiert, Jetsch haben einige große Anbjieter eine IPv6 Ajesse, diese ist größer Als hergömmliche IPv4 adressen weil es so ist. ende
